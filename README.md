@@ -5,7 +5,7 @@
 
 ### Overview
 
-The **Tata Elxsi AI Document Assistant** is a Streamlit-based web application designed to assist users in retrieving and analyzing information from documents. It supports various file types, including PDFs, PowerPoint presentations, Excel files, and Word documents, making it ideal for organizations with large document repositories. The app uses state-of-the-art AI techniques, including LangChain for text chunking, HuggingFace for embeddings, FAISS for vector storage, and Google Gemini (Google Generative AI) for answering user queries.
+The **AI Document Assistant** is a Streamlit-based web application designed to assist users in retrieving and analyzing information from documents. It supports various file types, including PDFs, PowerPoint presentations, Excel files, and Word documents, making it ideal for organizations with large document repositories. The app uses state-of-the-art AI techniques, including LangChain for text chunking, HuggingFace for embeddings, FAISS for vector storage, and Google Gemini (Google Generative AI) for answering user queries.
 
 ### Features
 
